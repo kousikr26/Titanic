@@ -1,5 +1,7 @@
 # Titanic
-A survival predictor for the titanic dataset available on kaggle
+A survivor predictor for the titanic dataset available on kaggle
+
+
 Attempted models
 - Logistic regression
 - Naive Bayes
