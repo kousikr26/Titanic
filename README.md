@@ -10,4 +10,6 @@ Attempted models
 - Random forest
 
 
- Random forest was found to have highest accuracy(75% on test set)
+ Random forest was found to have highest accuracy(77.033% on test set)
+
+The explanation of code, eda and feature engineering is present as markdown in the notebook
